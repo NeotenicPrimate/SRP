@@ -1,6 +1,6 @@
 <h1 align="center"> SRP </h1>
 
-<p align="center" width="100%"><img src="../images/network_distribution.png" /></p>
+<p align="center" width="100%"><img src="./images/network_distribution.png" /></p>
 
 Societal model where essential goods and services are guaranteed to every citizen, managed through a democratic process, and are produced sustainably and transparently with the help of automation.
 
